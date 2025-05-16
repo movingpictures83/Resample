@@ -1,0 +1,2 @@
+Prefix plugins/Resample/example/
+Plugin Resample inputfile parameters.txt outputfile resample.rds
